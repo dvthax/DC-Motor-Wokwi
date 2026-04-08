@@ -1,10 +1,9 @@
 {
-  "name": "DC Motor",
-  "author": "Truong",
+  "name": "dc-motor",
   "pins": [
-    "IN1",
-    "IN2",
-    "EN",
-    "OUT"
+    { "name": "IN1", "type": "input" },
+    { "name": "IN2", "type": "input" },
+    { "name": "EN",  "type": "input" },
+    { "name": "OUT", "type": "output" }
   ]
 }
