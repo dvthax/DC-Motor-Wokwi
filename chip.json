@@ -1,0 +1,9 @@
+{
+  "name": "DC Motor",
+  "author": "Truong",
+  "pins": [
+    "IN1",
+    "IN2",
+    "EN"
+  ]
+}
