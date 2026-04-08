@@ -1,5 +1,5 @@
 {
-  "name": "DC Motor",
+  "name": "DCMotor",
   "author": "Truong",
   "pins": [
     "IN1",
